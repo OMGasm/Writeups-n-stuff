@@ -72,19 +72,19 @@ This simply returns `true` if the supplied name(given in the menu) is found anyw
 Maps allow "indexing" into them like an array, giving whatever underlying value is stored within, but with basically any value/type, in this case with names.  
 *But*
 There's a catch  
-![](Pasted%20image%2020221217202943.png)
+![](attachments/Pasted%20image%2020221217202943.png)
 C++ devs really like to make their functions/operators super obvious as to what they do -- haha no. They thought it would be nice if whenever you queried a map in this way, it should *obviously* insert whatever you queried into the map. How generous.  
 
 ## I think we're on to something
 So yeah, now we can just add as many names as we need to kick Pinkie off the front of the list, but how do we go about it?  
 One might assume you can just add \[a, b, c, d...\] as they come before `P` right? Well, after a quick glance at an example provided by that website, I think it's fairly safe to assume it's "ASCIIbetical"[^1] [^2], so we'll just use uppercase instead.
 
-![](Pasted%20image%2020221217205915.png)
+![](attachments/Pasted%20image%2020221217205915.png)
 We just need to do this a few times, I used the normal add in this case just to illustrate that the list is now full.  
 Of course, when we try to get the flag right now, Pinkie's still there.
-![](Pasted%20image%2020221217210003.png)
+![](attachments/Pasted%20image%2020221217210003.png)
 So let's just add another couple of names! [^3]
-![](Pasted%20image%2020221217210124.png)
+![](attachments/Pasted%20image%2020221217210124.png)
 We did it!
 
 Now we just need to add whichever elf wrote this thing onto the list 😏
