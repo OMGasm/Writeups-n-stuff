@@ -1,0 +1,3 @@
+[submodule "DUCTF2022"]
+	path = DUCTF2022
+	url = https://github.com/OMGasm/DUCTF2022
