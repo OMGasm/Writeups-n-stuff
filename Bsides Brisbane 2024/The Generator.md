@@ -31,4 +31,4 @@ Another aside: This thing felt oddly similar to a talk/article I had heard about
 Aside++: Wow ok. (it was fun though)
 ![](attachments/Pasted%20image%2020240714153552.png)
 
-[solve script](generator_solve.js)
+[solve script](generator_solve.js) (the actual "solve" bit is at the end, btw)
