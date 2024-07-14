@@ -30,3 +30,5 @@ flag{I_w1sh_it_was_Crypt0}
 Another aside: This thing felt oddly similar to a talk/article I had heard about a while ago to do with an old password generator and some hardware wallet thing.
 Aside++: Wow ok. (it was fun though)
 ![](attachments/Pasted%20image%2020240714153552.png)
+
+[solve script](generator_solve.js)
